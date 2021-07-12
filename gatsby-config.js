@@ -2,6 +2,6 @@ module.exports = {
     siteMetadata: {
         title: 'prefix-paths-hosting',
     },
-    assetPrefix: `https://prefixpathshostingmain.gatsbyjs.io`,
+    pathPrefix: '/news',
     plugins: ['gatsby-plugin-gatsby-cloud'],
 }
